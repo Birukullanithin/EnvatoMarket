@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/EnvatoMarket/static/css/main.6f6b2543.css",
+    "main.js": "/EnvatoMarket/static/js/main.993e85ed.js",
+    "index.html": "/EnvatoMarket/index.html",
+    "main.6f6b2543.css.map": "/EnvatoMarket/static/css/main.6f6b2543.css.map",
+    "main.993e85ed.js.map": "/EnvatoMarket/static/js/main.993e85ed.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6f6b2543.css",
+    "static/js/main.993e85ed.js"
+  ]
+}
