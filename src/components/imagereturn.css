@@ -1,0 +1,17 @@
+.imagediv{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.p{
+    color: rgba(238, 229, 255, 0.74);
+}
+
+.imagediv1{
+    margin-top:5%;
+    margin-left: 10%;
+    margin-right: 10%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}

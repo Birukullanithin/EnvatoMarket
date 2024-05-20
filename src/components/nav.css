@@ -1,0 +1,53 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: 'Sora', sans-serif;
+}
+.nav{
+    display: flex;
+    align-items: center;
+    height: 54px;
+    font: 12px;
+    border: solid 2px black;
+    background-color: rgb(38, 38, 38);
+    justify-content: space-between;
+    
+}
+.innerdiv{
+    display: flex;
+    align-items: center;
+}
+.logo {
+    height: 50px; /* Adjust the height as needed */
+    width: auto; /* Maintains the aspect ratio */
+  }
+  .envato {
+    color: white;
+    width: auto;
+    font-family: 'Outfit', sans-serif;
+    font-weight: 200;
+  }
+  
+  .market {
+    color: green;
+    width: auto;
+    font-family: 'Outfit', sans-serif;
+    font-weight: 500;
+  }
+.btn{
+    /* background-color: #82B440; 
+   color: #ffffff; */
+   padding: 10px;
+   text-decoration: none;
+   border-radius: 4px;
+   margin: 10px;
+}
+p{
+  color: white;
+}
+h1{
+  color: white;
+}
+h2{
+  color:white;
+}
